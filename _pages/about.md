@@ -7,7 +7,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: profile.JPG
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
     <p>Berkeley Way West, 8th floor</p>
     <p>Pronouns: she/her</p>
