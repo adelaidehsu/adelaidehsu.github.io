@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * indicates equal contributions.
+description: Asterisks indicate equal contributions.
 nav: true
 nav_order: 1
 ---
