@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers got into NeurIPS XAIA workshop :sparkles:
+Two papers got into NeurIPS 2023 XAIA workshop :sparkles:
