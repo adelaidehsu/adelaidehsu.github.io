@@ -18,7 +18,7 @@ latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a 4th-year PhD student at UC Berkeley's EECS department and [BAIR](https://bair.berkeley.edu/index.html#header), working on natural language processing (NLP), clinical decision making and model interpretability. I'm generally interested in language model applications and building trust and safety in large language models (LLMs) in high-stakes domains.
+I'm a 5th-year PhD student at UC Berkeley's EECS department and [BAIR](https://bair.berkeley.edu/index.html#header), working on natural language processing (NLP), clinical decision making and model interpretability. I'm generally interested in language model applications and building trust and safety in large language models (LLMs) in high-stakes domains.
 
 I am fortunate to have been awarded UC Berkeley Chancellor Fellowship and EECS Excellence Award and advised by [Bin Yu](https://www.stat.berkeley.edu/~yugroup/).
 
