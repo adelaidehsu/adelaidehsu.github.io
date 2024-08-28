@@ -25,6 +25,6 @@ I am fortunate to have been awarded UC Berkeley Chancellor Fellowship and EECS E
 I received my double Bachelor's degrees in electrical engineering and economics from [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU).
 During my time at NTU, I had the pleasure to have worked with [Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm), [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html), and [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) on research focusing on dialogue response generation and computer vision.
 
-You can find my [resume](https://drive.google.com/file/d/185IXhfpj5qxMABRTpfExsSP6zJcjoV2u/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, UT Austin, Microsoft Research) who took a leap of faith to support, teach, and guide me in research.
+You can find my [resume](https://drive.google.com/file/d/1Q6XdmesENCQIs9OFNClZajoPbNGva-w0/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, UT Austin, Microsoft Research) who took a leap of faith to support, teach, and guide me in research.
 
 When I am not coding, I enjoy reading, being an [amateur film photographer](https://www.instagram.com/ah_amateurfilms/), and mentoring younger students in STEM.
