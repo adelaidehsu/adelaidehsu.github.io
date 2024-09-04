@@ -27,6 +27,6 @@ During my time at NTU, I had the pleasure to have worked with [Lin-Shan Lee](htt
 
 **I am on the job market during the 2024-2025 academic year.**
 
-You can find my [resume](https://drive.google.com/file/d/1Q6XdmesENCQIs9OFNClZajoPbNGva-w0/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, UT Austin, Microsoft Research) who took a leap of faith to support, teach, and guide me in research.
+You can find my [resume](https://drive.google.com/file/d/19pylYUh7lR5pHWn1fDJga3XQhSy1zAGV/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, UT Austin, Microsoft Research) who took a leap of faith to support, teach, and guide me in research.
 
 When I am not coding, I enjoy reading, being an [amateur film photographer](https://www.instagram.com/ah_amateurfilms/), and mentoring younger students in STEM.
