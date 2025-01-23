@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got into ICLR 2024 :sparkles:
+My paper [Diagnosing Transformers: Illuminating Feature Spaces for Clinical Decision-Making](https://arxiv.org/pdf/2305.17588) investigating effect of pre-training data distributions on transformer feature spaces got into **ICLR 2024** :sparkles:
