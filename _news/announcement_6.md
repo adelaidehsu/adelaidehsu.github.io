@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Returned to Salesforce Einstein Language Intelligence Data Science Team for my internship again! :smiley:
+Returned to Salesforce Einstein Language Intelligence Data Science Team as an Applied Scientist Intern again! :smiley:
