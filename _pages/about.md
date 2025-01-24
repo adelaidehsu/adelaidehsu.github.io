@@ -27,4 +27,4 @@ During my time at NTU, I had the pleasure to have worked with [Lin-Shan Lee](htt
 
 **I am on the industry job market during the 2024-2025 academic year. Happy to connect if you think I might be a good fit for your team.**
 
-You can find my [CV](https://drive.google.com/file/d/1KIzm02ClJP1xfKCKXx_wgk-BtTJTxLvQ/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, MIT, UT Austin, Microsoft Research, Salesforce) who took a leap of faith to support, teach, and guide me in research.
+You can find my [CV](https://drive.google.com/file/d/1w-nsoz30Pt2hXUdhaYZb6gr3IDSPgq6c/view?usp=sharing) here, which includes a non-exhaustive list of people from many institutions (UCSF, MIT, UT Austin, Microsoft Research, Salesforce) who took a leap of faith to support, teach, and guide me in research.
