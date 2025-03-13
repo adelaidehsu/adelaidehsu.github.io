@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Enhancing CBMs Through Binary Distillation with Applications to Test-time Intervention]() decomposing Concept Bottleneck Models(CBMs) predictions into interpretable binary-concept-interaction attributions to guide adaptive test-time intervention got into **ICLR 2025 BuildingTrust Workshop** :sparkles:
+Our paper [Enhancing CBMs Through Binary Distillation with Applications to Test-time Intervention](https://arxiv.org/pdf/2503.06730) decomposing Concept Bottleneck Models(CBMs) predictions into interpretable binary-concept-interaction attributions to guide adaptive test-time intervention got into **ICLR 2025 BuildingTrust Workshop** :sparkles:
